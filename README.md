@@ -69,7 +69,9 @@
             box-shadow: 0px 4px 20px rgba(0,0,0,0.2);
         }
         #about p { max-width: 700px; font-size: 1.1rem; line-height: 1.8; }
-
+<figure>
+    <img src="https://cdn.programiz.com/sites/tutorial2program/files/pc_logo.svg" width = "300" height = "247">
+</figure>
         /* Projects */
         .projects { display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; }
         .project-card {
