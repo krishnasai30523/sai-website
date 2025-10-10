@@ -137,7 +137,7 @@
     <!-- About -->
     <section id="about">
         <h2>About Me</h2>
-        <img src="https://via.placeholder.com/200" alt="Profile Image">
+        <img src="images/Screenshots/Screenshot 2025-09-24 114921.png" alt="Profile Image">
         <p>Hello! I'm Karnati Krishna Sai, a passionate frontend developer. I enjoy creating functional and visually appealing websites using modern technologies like HTML, CSS, JavaScript, and React. I love turning ideas into real applications and continuously learning new skills.</p>
     </section>
 
@@ -146,17 +146,17 @@
         <h2>My Projects</h2>
         <div class="projects">
             <div class="project-card">
-                <img src="https://via.placeholder.com/300x180" alt="Portfolio Website">
+                <img src="images/Screenshots/Screenshot 2025-09-24 114921.png" alt="Portfolio Website">
                 <h3>Portfolio Website</h3>
                 <p>A responsive personal portfolio website built with HTML, CSS, and JavaScript.</p>
             </div>
             <div class="project-card">
-                <img src="https://via.placeholder.com/300x180" alt="ToDo App">
+                <img src="images/Screenshots/Screenshot 2025-09-24 114921.png" alt="ToDo App">
                 <h3>ToDo App</h3>
                 <p>A JavaScript application for managing daily tasks with add/delete functionality.</p>
             </div>
             <div class="project-card">
-                <img src="https://via.placeholder.com/300x180" alt="Weather App">
+                <img src="images/Screenshots/Screenshot 2025-09-24 114921.png" alt="Weather App">
                 <h3>Weather App</h3>
                 <p>Real-time weather application fetching data from OpenWeatherMap API.</p>
             </div>
@@ -189,4 +189,3 @@
 
 </body>
 </html>
-
